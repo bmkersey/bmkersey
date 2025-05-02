@@ -14,8 +14,5 @@ I'm a full-stack developer focused on building scalable platforms using Go, Post
 
 ### 📫 Reach me
 - Email: bmkersey@gmail.com  
-- GitHub: [@bmkersey](https://github.com/bmkersey)
-
 ---
-
 > Clean code, fast systems, and shipping products that matter.
