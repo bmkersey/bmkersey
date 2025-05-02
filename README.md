@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Brendan 👋
 
-<!--
-**bmkersey/bmkersey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer focused on building scalable SaaS platforms using Go, PostgreSQL, and modern JavaScript.
 
-Here are some ideas to get you started:
+### 🛠️ Tech I use daily
+- Backend: Go, PostgreSQL, Redis
+- Frontend: React, Next.js, Tailwind CSS
+- DevOps: Docker, Railway, Vercel
+- APIs: Stripe, REST, GraphQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Projects
+- **Go-SaaSy** — A SaaS starter kit with multi-tenancy, billing, and email built in
+- **Pokedex CLI** — A Go CLI tool for exploring Pokémon data
+
+### 📫 Reach me
+- Email: bmkersey@gmail.com  
+- GitHub: [@bmkersey](https://github.com/bmkersey)
+
+---
+
+> Clean code, fast systems, and shipping products that matter.
