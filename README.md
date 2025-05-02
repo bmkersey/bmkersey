@@ -1,6 +1,6 @@
 # Hi, I'm Brendan 👋
 
-I'm a full-stack developer focused on building scalable SaaS platforms using Go, PostgreSQL, and modern JavaScript.
+I'm a full-stack developer focused on building scalable platforms using Go, PostgreSQL, and modern JavaScript.
 
 ### 🛠️ Tech I use daily
 - Backend: Go, PostgreSQL, Redis
